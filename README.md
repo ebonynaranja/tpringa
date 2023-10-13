@@ -1,2 +1,2 @@
-# tpringa
+# Tpringa
 Transcoder written with zig
